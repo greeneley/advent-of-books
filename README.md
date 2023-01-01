@@ -7,3 +7,4 @@ This is a collection of books that I have read over the years. In addition, I ha
 
 - CSS Visual Dictionary, Greg Sidelnikov: 
 - Fullstack React, Anthony Accomazzo, Ari Lerner, David Guttman, Nate Murray, Clay Allsopp and Tyler McGinnis
+- Learning React, 2nd Edition, Eve Porcello & Alex Banks
