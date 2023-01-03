@@ -10,3 +10,8 @@ This is a collection of books that I have read over the years. In addition, I ha
 - Learning React, 2nd Edition, Eve Porcello & Alex Banks
 - Professional JavaScript for web developers, Matt Frisbie
 - React interview question
+
+## 2023
+
+- Introduction to Algorithm
+- Fullstack React Native, Devin Abbott and Houssein Djirdehh
