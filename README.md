@@ -17,3 +17,4 @@ This is a collection of books that I have read over the years. In addition, I ha
 - Fullstack React Native, Devin Abbott and Houssein Djirdehh
 - The Complete Redux Book, Ilya Gelman and Boris Dinkevich
 - Factory Pattern
+- Human Redux by Henrik Joreteg
