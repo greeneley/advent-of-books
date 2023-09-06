@@ -18,3 +18,5 @@ This is a collection of books that I have read over the years. In addition, I ha
 - The Complete Redux Book, Ilya Gelman and Boris Dinkevich
 - Factory Pattern
 - Human Redux by Henrik Joreteg
+- Cracking the coding
+- [JAVA] OCA Oracle Certified Associate Java SE 8 Programmer I Study Guide Exam 1Z0-808: from chapter 1 to chapter 2, the content is valuable
