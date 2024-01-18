@@ -21,3 +21,6 @@ This is a collection of books that I have read over the years. In addition, I ha
 - Cracking the coding
 - [JAVA] OCA Oracle Certified Associate Java SE 8 Programmer I Study Guide Exam 1Z0-808: from chapter 1 to chapter 2, the content is valuable
 - Craig Walls - Spring in Action, Sixth Edition (2022, Manning) - libgen.li
+
+## 2024
+- Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides-Design Patterns_ Elements of Reusable Object-Oriented Software  -Addison-Wesley Professional (1994)
