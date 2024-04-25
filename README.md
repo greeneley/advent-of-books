@@ -24,3 +24,4 @@ This is a collection of books that I have read over the years. In addition, I ha
 
 ## 2024
 - Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides-Design Patterns_ Elements of Reusable Object-Oriented Software  -Addison-Wesley Professional (1994)
+- Tài liệu giáo khoa chuyên tin lớp 10 tập 1
