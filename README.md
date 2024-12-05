@@ -26,3 +26,4 @@ This is a collection of books that I have read over the years. In addition, I ha
 - Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides-Design Patterns_ Elements of Reusable Object-Oriented Software  -Addison-Wesley Professional (1994)
 - Tài liệu giáo khoa chuyên tin lớp 10 tập 1
 - System Design Interview an insider's guide volumn 1
+- Computer Programming and IT 1st Publisher
